@@ -1,6 +1,10 @@
 class calculator(){
 	public static void Main(String[args]){
 
+	public static int add(int a,int b){
+	return a+b;
+
+	}
 	}
 }
 
