@@ -1,6 +1,0 @@
-class calculator {
-	public static void Main(){
-
-
-	}
-}
